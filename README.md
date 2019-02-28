@@ -7,3 +7,5 @@ A visualization of the height and weights of US athletes. This repository contai
 [Higher quality version here](https://gfycat.com/massiveglaringannelid)
 
 Please do not abuse the scraping scripts. The scraped data is all included in this repository, so there's no need to.
+
+Note: The visualization required a bit of hackiness to get it to render exactly the way I wanted in the animation, so this is not necessarily an ideal example of clean ggplot/gganimate usage.
